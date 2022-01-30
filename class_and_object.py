@@ -46,7 +46,7 @@ class Robot_version_2:
     def introduce_self(self):
 
         print("my name is " + self.NameX)
-        print("Age = "+ self.AgeX);
+        print("Age = "+ self.AgeX)
 
 
 Robot3 = Robot_version_2('First Robot', '22')
